@@ -16,5 +16,8 @@ class Bear
     end
   end
 
+  def get_roar()
+    return "Hear me roarrr"
+  end
 
 end
